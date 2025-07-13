@@ -6,6 +6,7 @@ TIMEZONE=America/Toronto
 # Update
 INFLUXDB_DATA=<path to influxdb data>
 INFLUXDB_CONFIG=<path to influxdb config>
+INFLUXDB_PORT=<influxdb port>
 ```
 
 - `private/.env.influxdb2-admin-password`
